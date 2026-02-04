@@ -7,3 +7,4 @@ Go 语言基础练习项目
 
 - 运行代码: `go run 文件名.go` (例如：`go run hello.go`)
 - 使用 Trae 打开: `trae .` (打开当前文件夹)
+ 
